@@ -1,0 +1,10 @@
+name: PvPTime
+version: '${project.version}'
+main: me.xsenny.pvptime.PvPTime
+authors: [ xSenny_ ]
+description: When in minecraft is day, the pvp is off, but when in minecraft is night, the pvp is on, but you can change them.
+website: https://xsenny.github.io/Portofolio/
+api-version: 1.16
+commands:
+  pvptime:
+    description: asd

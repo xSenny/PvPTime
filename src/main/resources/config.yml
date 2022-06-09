@@ -1,0 +1,11 @@
+#If you set that boolean as true, when in minecraft is day, the pvp is off, but when in minecraft is night, the pvp is on.
+#but if you set that boolean as false, when in minecraft is day, the pvp is on, but when in minecraf is night
+#the pvp is off.
+
+toggle: true
+
+
+worlds: #Here you can add a list with all worlds where you want to enable that plugin.
+  - 'world'
+
+all-worlds: false #If you have set that boolean to true, all worlds is included in worlds list.
